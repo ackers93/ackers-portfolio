@@ -1,0 +1,11 @@
+@import "./header";
+
+$fontColor: #2c4549fd;
+
+html,
+body {
+  background-color: #bfd5e2;
+  color: $fontColor;
+  font-size: 62.5%;
+  margin: 0 auto;
+}
